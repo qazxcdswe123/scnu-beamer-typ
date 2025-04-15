@@ -24,3 +24,4 @@
 
 - [Elitedj/SCNU_BeamerTemplate](https://github.com/Elitedj/SCNU_BeamerTemplate/tree/master)
 - [Stargazer Theme](https://touying-typ.github.io/docs/themes/stargazer/)
+- [touying](https://touying-typ.github.io/zh/docs/intro)
