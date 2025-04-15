@@ -2,6 +2,8 @@
 
 关键词：华南师范大学、Typst、Beamer
 
+![Preview](assets/preview.png)
+
 ## 使用说明
 
 1. 安装 Typst
